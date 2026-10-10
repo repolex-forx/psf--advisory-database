@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/advisory-database/commit/cf08884a2c39176985d607953b2416e1aad1c8b0",
       "git:hexsha": "cf08884a2c39176985d607953b2416e1aad1c8b0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
